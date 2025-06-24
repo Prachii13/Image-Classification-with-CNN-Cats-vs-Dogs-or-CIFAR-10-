@@ -1,0 +1,9 @@
+image_classifier_cnn/
+├── data/                              # Training data (optional for CIFAR-10)
+├── train_model.py                     # CNN training script
+├── predict.py                         # CLI image prediction
+├── app.py                             # Streamlit UI
+├── model.h5                           # Saved CNN model
+├── requirements.txt
+├── README.md
+└── .gitignore
